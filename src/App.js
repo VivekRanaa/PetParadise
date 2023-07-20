@@ -5,7 +5,7 @@ import Home from "./Comps/home";
 import Groom from "./Comps/groom";
 import Boarding from "./Comps/boarding";
 import Details from "./Comps/details";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 

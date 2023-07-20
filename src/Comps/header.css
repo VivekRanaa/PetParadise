@@ -183,7 +183,7 @@ h2{
  margin-top: 10vh;
 }
 .card{
-  background-color: white;
+  background-color:  pink;
 }
 .card-title{
   text-align: center;
@@ -193,4 +193,9 @@ h2{
 }
 .cas{
     height: 200;
+    background:#429255;
+}
+
+.card-body{
+  background-color: pink;
 }

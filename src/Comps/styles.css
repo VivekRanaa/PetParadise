@@ -24,12 +24,12 @@
     height:fit-content;
 
 }
-button{
+#b1{
     margin-top: 50px;
     flex-basis: 98%;
     width: 200px;
     background: #3c00a0;
-    color: #fff;
+    color: #fff !important;
     height: 40px;
     border-radius: 20px;
     border: 0;

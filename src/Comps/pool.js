@@ -7,10 +7,10 @@ export default function Pool (){
 return(
     
     <div class="container" >
-    <div class="content" style={{marginTop:34}}>
+    <div class="content" style={{height:'fit-content'}}>
         <button id="b1" ><Link to="/Comps/details"> Fill Details</Link>
         </button> 
-        <p >
+        <p style={{marginTop:33}}>
             This summer, your pool party has gone to the dogs—but we think that’s a good thing!
 
             Our four-legged friends could use a good pool party,
